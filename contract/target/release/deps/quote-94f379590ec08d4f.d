@@ -1,0 +1,13 @@
+/home/kirov/Desktop/identity/contract/target/release/deps/quote-94f379590ec08d4f.rmeta: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/kirov/Desktop/identity/contract/target/release/deps/libquote-94f379590ec08d4f.rlib: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/kirov/Desktop/identity/contract/target/release/deps/quote-94f379590ec08d4f.d: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs
+
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/lib.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ext.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/format.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/ident_fragment.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/to_tokens.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/runtime.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.26/src/spanned.rs:

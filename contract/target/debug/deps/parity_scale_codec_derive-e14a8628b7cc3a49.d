@@ -1,0 +1,10 @@
+/home/kirov/Desktop/identity/contract/target/debug/deps/libparity_scale_codec_derive-e14a8628b7cc3a49.so: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/kirov/Desktop/identity/contract/target/debug/deps/parity_scale_codec_derive-e14a8628b7cc3a49.d: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs
+
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/lib.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/decode.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/encode.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/max_encoded_len.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/utils.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.3.1/src/trait_bounds.rs:

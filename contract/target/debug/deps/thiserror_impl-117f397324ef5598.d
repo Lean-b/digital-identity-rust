@@ -1,0 +1,12 @@
+/home/kirov/Desktop/identity/contract/target/debug/deps/libthiserror_impl-117f397324ef5598.so: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/ast.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/attr.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/expand.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/fmt.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/generics.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/prop.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/valid.rs
+
+/home/kirov/Desktop/identity/contract/target/debug/deps/thiserror_impl-117f397324ef5598.d: /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/lib.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/ast.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/attr.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/expand.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/fmt.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/generics.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/prop.rs /home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/valid.rs
+
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/lib.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/ast.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/attr.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/expand.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/fmt.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/generics.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/prop.rs:
+/home/kirov/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.40/src/valid.rs:
